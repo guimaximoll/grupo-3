@@ -1,0 +1,33 @@
+body {
+    color: red;
+    margin: 5px;
+    font-family: "Gupter", serif;
+}
+
+header {
+    border-bottom: solid 1px red;
+    padding: 20px;
+    font-size: 32px;
+
+    
+}
+
+section { 
+    background: rgb(61, 15, 15);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+div {
+    margin-right: 50px;
+
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
